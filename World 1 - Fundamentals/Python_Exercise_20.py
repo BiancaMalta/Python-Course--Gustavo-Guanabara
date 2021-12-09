@@ -8,4 +8,4 @@ student3 = input('Student 3: ')
 student4 = input('Student 4: ')
 slist = [student1, student2, student3, student4]
 shuffle(slist)
-print(f'The order drawn is: {slist}')
+print(f'The sequence drawn is: {slist}')
