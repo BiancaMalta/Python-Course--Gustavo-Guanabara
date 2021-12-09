@@ -1,6 +1,6 @@
 #Python Exercise 08
 
-#Make a program that reads a value in meters and displays it converted to kilometers, hectometers, decameters, decimeters, centimeters and millimeters.
+#Make a program that reads a value in meters and displays it converted into kilometers, hectometers, decameters, decimeters, centimeters and millimeters.
 
 m = float(input(f'Enter a distance in meters: '))
 
