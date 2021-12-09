@@ -1,6 +1,6 @@
 #Python Exercise 20
 
-#Make a program that reads the names of the four students and shows the order drawn.
+#Make a program that reads the names of the four students and shows the sequence drawn.
 from random import shuffle
 student1 = input('Student 1: ')
 student2 = input('Student 2: ')
