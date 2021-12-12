@@ -63,7 +63,7 @@ Course, with more than 100 exercises solved in Python, ministered by Professor G
 
 ### World 2: Control Flow Statements
 
-#### If...Elif
+#### If..Elif
 
 - Exercise Python #036 - [Approving loan](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_36.py)
 - Exercise Python #037 - [Number Base Converter](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_37.py)
@@ -78,17 +78,17 @@ Course, with more than 100 exercises solved in Python, ministered by Professor G
 
 #### For
 
-- Python Exercise #046 - [Countdown] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_46.py)
-- Python Exercise #047 - [Even Counting] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_47.py)
-- Python Exercise #048 - [Sum odd multiples of three] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_48.py)
-- Python Exercise # 049 - [Multiplication table v2.0] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_49.py)
-- Python Exercise # 050 - [Sum of even] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_50.py)
-- Python Exercise #051 - [Arithmetic Progression] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_51.py)
-- Python Exercise #052 - [Prime Numbers] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_52.py)
-- Python Exercise #053 - [Palindrome Detector] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_53.py)
-- Python Exercise #054 - [Adulthood Group] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_54.py)
-- Python Exercise #055 - [Biggest and Smallest of Sequence] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_55.py)
-- Python Exercise #056 - [Complete Analyzer] (https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_56.py)
+- Python Exercise #046 - [Countdown](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_46.py)
+- Python Exercise #047 - [Even Counting](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_47.py)
+- Python Exercise #048 - [Sum odd multiples of three](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_48.py)
+- Python Exercise # 049 - [Multiplication table v2.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_49.py)
+- Python Exercise # 050 - [Sum of even](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_50.py)
+- Python Exercise #051 - [Arithmetic Progression](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_51.py)
+- Python Exercise #052 - [Prime Numbers](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_52.py)
+- Python Exercise #053 - [Palindrome Detector](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_53.py)
+- Python Exercise #054 - [Adulthood Group](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_54.py)
+- Python Exercise #055 - [Biggest and Smallest of Sequence](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_55.py)
+- Python Exercise #056 - [Complete Analyzer](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_56.py)
 
 #### While
 
