@@ -63,18 +63,18 @@ Course, with more than 100 exercises solved in Python, ministered by Professor G
 
 ### World 2: Control Flow Statements
 
-#### If..Elif
+#### If..Elif..Else
 
-- Exercise Python #036 - [Approving loan](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_36.py)
-- Exercise Python #037 - [Number Base Converter](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_37.py)
-- Exercise Python #038 - [Comparing numbers](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_38.py)
-- Exercise Python #039 - [Military Enlistment](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_39.py)
-- Exercise Python #040 - [That mean classic](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_40.py)
-- Exercise Python #041 - [Rating athletes](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_41.py)
-- Exercise Python #042 - [Analyzing triangles v2.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_42.py)
-- Exercise Python #043 - [Body Mass Index](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_43.py)
-- Exercise Python #044 - [Payment manager](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_44.py)
-- Exercise Python #045 - [GAME: Rock, Paper and Scissors](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_45.py)
+- Python Exercise #036 - [Approving loan](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_36.py)
+- Python Exercise #037 - [Number Base Converter](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_37.py)
+- Python Exercise #038 - [Comparing numbers](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_38.py)
+- Python Exercise #039 - [Military Enlistment](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_39.py)
+- Python Exercise #040 - [That mean classic](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_40.py)
+- Python Exercise #041 - [Rating athletes](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_41.py)
+- Python Exercise #042 - [Analyzing triangles v2.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_42.py)
+- Python Exercise #043 - [Body Mass Index](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_43.py)
+- Python Exercise #044 - [Payment manager](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_44.py)
+- Python Exercise #045 - [GAME: Rock, Paper and Scissors](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_45.py)
 
 #### For
 
@@ -92,18 +92,18 @@ Course, with more than 100 exercises solved in Python, ministered by Professor G
 
 #### While
 
-- Exercise Python #057 - [Data validation](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_57.py)
-- Exercise Python #058 - [Guessing Game v2.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_58.py)
-- Exercise Python #059 - [Creating an options menu](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_59.py)
-- Exercise Python #060 - [Factor calculation](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_60.py)
-- Exercise Python #061 - [Arithmetic Progression v2.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_61.py)
-- Exercise Python #062 - [Super Arithmetic Progression v3.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_62.py)
-- Exercise Python #063 - [Fibonacci Sequence v1.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_63.py)
-- Exercise Python #064 - [Handling multiple values v1.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_64.py)
-- Exercise Python #065 - [Highest and lowest values](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_65.py)
-- Exercise Python #066 - [Various numbers with flag](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_66.py)
-- Exercise Python #067 - [Table v3.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_67.py)
-- Exercise Python #068 - [Odd or even game](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_68.py)
-- Exercise Python #069 - [Group data analysis](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_69.py)
-- Exercise Python #070 - [Product statistics](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_70.py)
-- Exercise Python #071 - [ATM Simulator](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_71.py)
+- Python Exercise #057 - [Data validation](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_57.py)
+- Python Exercise #058 - [Guessing Game v2.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_58.py)
+- Python Exercise #059 - [Creating an options menu](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_59.py)
+- Python Exercise #060 - [Factor calculation](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_60.py)
+- Python Exercise #061 - [Arithmetic Progression v2.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_61.py)
+- Python Exercise #062 - [Super Arithmetic Progression v3.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_62.py)
+- Python Exercise #063 - [Fibonacci Sequence v1.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_63.py)
+- Python Exercise #064 - [Handling multiple values v1.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_64.py)
+- Python Exercise #065 - [Highest and lowest values](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_65.py)
+- Python Exercise #066 - [Various numbers with flag](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_66.py)
+- Python Exercise #067 - [Table v3.0](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_67.py)
+- Python Exercise #068 - [Odd or even game](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_68.py)
+- Python Exercise #069 - [Group data analysis](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_69.py)
+- Python Exercise #070 - [Product statistics](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_70.py)
+- Python Exercise #071 - [ATM Simulator](https://github.com/BiancaMalta/Python-Course--Gustavo-Guanabara/blob/main/World%202%20-%20Control%20Flow%20Statements/Python_Exercise_71.py)
